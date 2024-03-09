@@ -3,6 +3,10 @@
   align-items: center;
   justify-content: center;
   &__items {
-    width: 100%;
+    &__text {
+      color: #f0e7be;
+      text-decoration: none;
+      font-family: "Montserrat", sans-serif;
+    }
   }
 }
